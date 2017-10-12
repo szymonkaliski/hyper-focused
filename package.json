@@ -1,0 +1,8 @@
+{
+  "name": "hyper-focused",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "toggle 'focused' class on hyper_main div based on windows focus",
+  "author": "Szymon Kaliski <hi@szymonkaliski.com> (http://szymonkaliski.com/)",
+  "license": "MIT"
+}
